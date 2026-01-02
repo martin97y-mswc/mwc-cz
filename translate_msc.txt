@@ -1,8 +1,8 @@
 ﻿//Main Menu
 BEGIN = ZAČÍT
 CANCEL = ZRUŠIT
-NEW GAME WILL REPLACE ANY EXISTING SAVE! = NOVÁ HRA NAHRADÍ STÁVAJÍCÍ ULOŽENÍ!
-ON = ZAP.
+NEW GAME WILL REPLACE ANY EXISTING SAVE! = NOVÁ HRA SMAŽE SAVE!
+ON = ZAPNUTO
 CONTINUE = POKRAČOVAT
 NEW GAME = NOVÁ HRA
 CREDITS = TITULKY
@@ -22,7 +22,7 @@ THURSDAY = ČTVRTEK
 FRIDAY = PÁTEK
 SATURDAY = SOBOTA
 SUNDAY = NEDĚLĚ
-MORTAL = SMRTELNÝ REŽIM
+MORTAL = SMRTELNÍK
 THIRST = ŽÍZEŇ
 HUNGER = HLAD
 STRESS = STRES
@@ -37,85 +37,84 @@ SETTINGS MENU = NASTAVENÍ
 RESUME = POKRAČOVAT
 GRAPHICS = GRAFIKA
 EFFECTS = EFEKTY
-ANTIALIASING = VYHLAZOVÁNÍ
+ANTIALIASING = ANTIALIASING
 BLOOM = BLOOM
-REFLECTIONS = ODRAZY
-SUNSHAFTS = SLUNEČNÍ PAPRSKY
-CONTRAST ENCHANCE = VYLEPŠENÍ KONTRASTU
+REFLECTIONS = REFLECTIONS
+SUNSHAFTS = SUNSHAFTS
+CONTRAST ENCHANCE = CONTRAST ENCHANCE
 CAMERA = KAMERA
 FIELD OF VIEW = FOV
-DRAW DISTANCE = VYKRESLOVACÍ VZDÁLENOST
+DRAW DISTANCE = DRAW DISTANCE
 DETAILS = DETAILY
-SUN SHADOWS = STÍNY SLUNCE
-HOUSE LIGHT SHADOWS = STÍNY OSVĚTLENÍ
-DETAILED WATER = REÁLNÁ VODA
-AI CAR SKIDMARKS = STOPY AI VOZIDEL
-AI CAR DUST TRAILS = PRACH AI VOZIDEL
-CAR MIRRORS = ZRCÁTKA VOZIDLA
-INTERFACE = ROZHRANÍ
-ENGLISH SUBTITLES = TITULKY
-GEAR INDICATOR = UKAZATEL RYCHLOSTNÍHO STUPNĚ
-SHOW FPS = ZOBRAZIT FPS
-CAR CONTROLS = OVLÁDÁNÍ VOZIDLA
-WALKING HEAD BOB = POHYBY HLAVY PŘI CHŮZI
-DRIVING HEAD BOB = POHYBY HLAVY PŘI JÍZDĚ
-PLAYER CONTROLS = OVLÁDÁNÍ HRÁČE
-DRIVING CONTROLS = OVLÁDÁNÍ JÍZDY
-VEHICLE CONTROLS = OVLÁDÁNÍ VOZIDLA
-RESET TO DEFAULTS = OBNOVIT VÝCHOZÍ
-CALIBRATE = KALIBROVAT
-QUIT TO MENU = ZPĚT DO MENU
-ARE YOU SURE? = JSI SI JISTÝ?
-YES = ANO
+SUN SHADOWS = SUN SHADOWS
+HOUSE LIGHT SHADOWS = HOUSE LIGHT SHADOWS
+DETAILED WATER = DETAILED WATER
+AI CAR SKIDMARKS = AI CAR SKIDMARKS
+AI CAR DUST TRAILS = AI CAR DUST TRAILS
+CAR MIRRORS = CAR MIRRORS
+INTERFACE = INTERFACE
+ENGLISH SUBTITLES = ENGLISH SUBTITLES
+GEAR INDICATOR = GEAR INDICATOR
+SHOW FPS = SHOW FPS
+CAR CONTROLS = CAR CONTROLS
+WALKING HEAD BOB = WALKING HEAD BOB
+DRIVING HEAD BOB = DRIVING HEAD BOB
+PLAYER CONTROLS = PLAYER CONTROLS
+DRIVING CONTROLS = DRIVING CONTROLS
+VEHICLE CONTROLS = VEHICLE CONTROLS
+RESET TO DEFAULTS = RESET TO DEFAULTS
+CALIBRATE = CALIBRATE
+QUIT TO MENU = QUIT TO MENU
+ARE YOU SURE? = ARE YOU SURE?
+YES = YES
 
-ASSIGN STEERING = PŘIŘADIT ŘÍZENÍ
-STEERING left = ŘÍZENÍ doleva
-STEERING right = ŘÍZENÍ doprava
-ASSIGN NON-COMBINED AXIS = PŘIŘADIT ODDĚLENÉ OSY
-ASSIGN COMBINED AXIS = PŘIŘADIT KOMBINOVANÉ OSY
-THROTTLE AXIS = OSA PLYNU
-BRAKE AXIS = OSA BRZDY
-CLUTCH AXIS = OSA SPOJKY
-ASSIGN BUTTONS = PŘIŘADIT TLAČÍTKA
-THROTTLE BTN = TLAČÍTKO PLYNU
-BRAKE BTN = TLAČÍTKO BRZDY
-CLUTCH BTN = TLAČÍTKO SPOJKY
-PEDALS INVERT / NORMALIZE = INVERTOVAT / NORMALIZOVAT PEDÁLY
-THROTTLE = PLYN
-BRAKE = BRZDA
-CLUTCH = SPOJKA
-HANDBRAKE = RUČNÍ BRZDA
-OTHER SETTINGS = OSTATNÍ NASTAVENÍ
-STEERING DEAD ZONE = DEADZÓNA ŘÍZENÍ
-THROTTLE DEAD ZONE = DEADZÓNA PLYNU
-BRAKE DEAD ZONE = DEADZÓNA BRZDY
-CLUTCH DEAD ZONE = DEADZÓNA SPOJKY
-SHIFT UP = ŘADIT NAHORU
-SHIFT DOWN = ŘADIT DOLŮ
-NEUTRAL = NEUTRÁL
-PRESS INPUT DOWN AND THEN CLICK THIS WINDOW = DRŽTE VSTUP (KLÁVESU/PEDÁL) A KLIKNĚTE NA TOTO OKNO
-ASSIGN VEHICLE CONTROLS = PŘIŘADIT OVLÁDÁNÍ VOZIDLA
-1ST gear = 1. RYCHLOSTNÍ STUPEŇ
-2ND gear = 2. RYCHLOSTNÍ STUPEŇ
-3RD gear = 3. RYCHLOSTNÍ STUPEŇ
-4TH gear = 4. RYCHLOSTNÍ STUPEŇ
-5TH gear = 5. RYCHLOSTNÍ STUPEŇ
-6TH gear = 6. RYCHLOSTNÍ STUPEŇ
-REVERSE gear = ZPÁTEČKA
-gearbox RANGE = ROZSAH PŘEVODOVKY
-NOTE! IF YOU HAVE TROUBLE ASSIGNING PEDALS, PRESS PEDAL DOWN AND THEN CLICK THE ASSIGNMENT BUTTON AND RELEASE PEDAL. = POZNÁMKA! POKUD MÁTE POTÍŽE S PŘIŘAZENÍM PEDÁLŮ, SEŠLÁPNĚTE PEDÁL, KLIKNĚTE NA TLAČÍTKO PŘIŘAZENÍ A PAK PEDÁL UVOLNĚTE.
-ASSIGN ADDITIONAL CONTROLS = PŘIŘADIT DALŠÍ OVLÁDACÍ PRVKY
-LIGHTS MODE = REŽIM SVĚTEL
-WIPERS MODE = REŽIM STĚRAČŮ
-BLINKER LEFT = BLINKR DOLEVA
-BLINKER RIGHT = BLINKR DOPRAVA
+ASSIGN STEERING = ASSIGN STEERING
+STEERING left = STEERING left
+STEERING right = STEERING right
+ASSIGN NON-COMBINED AXIS = ASSIGN NON-COMBINED AXIS
+ASSIGN COMBINED AXIS = ASSIGN COMBINED AXIS
+THROTTLE AXIS = THROTTLE AXIS
+BRAKE AXIS = BRAKE AXIS
+CLUTCH AXIS = CLUTCH AXIS
+ASSIGN BUTTONS = ASSIGN BUTTONS
+THROTTLE BTN = THROTTLE BTN
+BRAKE BTN = BRAKE BTN 
+CLUTCH BTN = CLUTCH BTN
+PEDALS INVERT / NORMALIZE = PEDALS INVERT / NORMALIZE
+THROTTLE = THROTTLE
+BRAKE = BRAKE
+CLUTCH = CLUTCH
+HANDBRAKE = HANDBRAKE
+OTHER SETTINGS = OTHER SETTINGS
+STEERING DEAD ZONE = STEERING DEAD ZONE
+THROTTLE DEAD ZONE = THROTTLE DEAD ZONE
+BRAKE DEAD ZONE = BRAKE DEAD ZONE
+CLUTCH DEAD ZONE = CLUTCH DEAD ZONE
+SHIFT UP = SHIFT UP
+SHIFT DOWN = SHIFT DOWN
+NEUTRAL = NEUTRAL
+PRESS INPUT DOWN AND THEN CLICK THIS WINDOW = PRESS INPUT DOWN AND THEN CLICK THIS WINDOW
+1ST gear = 1ST gear
+2ND gear = 2ND gear
+3RD gear = 3RD gear
+4TH gear = 4TH gear 
+5TH gear = 5TH gear
+6TH gear =6TH gear
+REVERSE gear = ZREVERSE gear
+gearbox RANGE = gearbox RANGE
+NOTE! IF YOU HAVE TROUBLE ASSIGNING PEDALS, PRESS PEDAL DOWN AND THEN CLICK THE ASSIGNMENT BUTTON AND RELEASE PEDAL. = NOTE! IF YOU HAVE TROUBLE ASSIGNING PEDALS, PRESS PEDAL DOWN AND THEN CLICK THE ASSIGNMENT BUTTON AND RELEASE PEDAL.
+ASSIGN ADDITIONAL CONTROLS = ASSIGN ADDITIONAL CONTROLS
+LIGHTS MODE = LIGHTS MODE
+WIPERS MODE = WIPERS MODE
+BLINKER LEFT = BLINKER LEFT 
+BLINKER RIGHT = BLINKER RIGHT
 BOOST/LINELOCK = BOOST/LINELOCK
-SETTINGS = NASTAVENÍ
-H-SHIFTER = H-ŘAZENÍ 
-BRAKE SMOOTHING = VYHLAZENÍ BRZDĚNÍ
-THROTTLE SMOOTHING = VYHLAZENÍ PLYNU
-CLUTCH BITE POINT = BOD ZÁBĚRU SPOJKY
-MAX. WHEEL ROTATION = MAX. ROTACE VOLANTU
+SETTINGS = SETTINGS
+H-SHIFTER = H-SHIFTER
+BRAKE SMOOTHING = BRAKE SMOOTHING
+THROTTLE SMOOTHING = THROTTLE SMOOTHING
+CLUTCH BITE POINT = CLUTCH BITE POINT
+MAX. WHEEL ROTATION = MAX. WHEEL ROTATION
 AUTO CLUTCH = AUTOMATICKÁ SPOJKA
 WHEEL ROTATION = ROTACE VOLANTU
 STEERING HELP = POMOCNÍK ŘÍZENÍ
@@ -174,7 +173,7 @@ MOUSE INVERT = INVERZE MYŠI
 MOUSE SENS. X = CITLIVOST MYŠI X (VODOROVNĚ)
 MOUSE SENS. Y = CITLIVOST MYŠI Y (SVISLE)
 
-//Gears (Převody - Nízký/Vysoký rozsah)
+//Gears
 N +LOW = N + NÍZKÝ
 1 +LOW = 1 + NÍZKÝ
 2 +LOW = 2 + NÍZKÝ
@@ -218,7 +217,7 @@ Class.... Tree..... DIAL..... R/T...... 60'...... 330'..... 660'..... km/h..... 
 YOUR TIME SLIP = TVŮJ ČASOVÝ LÍSTEK
 RESULTS = VÝSLEDKY
 
-//Permanent Death Kill Stats (Statistiky po smrti)
+//Permanent Death Kill Stats
 QUITTING... = UKONČOVÁNÍ...
 Päivää hengissä/Days alive = Päivää hengissä / Dní naživu
 Savuketta / Cigarettes = Savuketta / Vykouřených cigaret
@@ -241,7 +240,7 @@ MK voitot pelikoneesta / Slotmachine wins = MK voitot pelikoneesta / Výhry v au
 MK tienattu / MK earned = MK tienattu / Vyděláno MK celkem
 MK käytetty / MK used = MK käytetty / Utraceno MK celkem
 
-//Interactions (Interakce)
+//Interactions
 OPEN TRAP = OTEVŘÍT PAST
 PICK FISH = SEBRAT RYBU
 CLOSE TRAP = ZAVŘÍT PAST
@@ -459,7 +458,7 @@ NEW MEASUREMENT = NOVÉ MĚŘENÍ
 USE LIFT = POUŽÍT ZVEDÁK
 DETACH DYNO STRAPS = ODPOJIT POPRUHY BRZDY
 
-//Sheets (Dokumenty a Pokuty)
+//Sheets
 Kesselinperäntie 3 = Kesselinperäntie 3
 62362 Alivieska = 62362 Alivieska
 levikesarja = Body kit (rozšíření)
@@ -535,7 +534,7 @@ Liikenteen vaarantaminen rekisteröimättömällä moottoriajoneuvolla ilman ajo
 Vehicle taxation offence. Tax sticker missing. = Daňový přestupek: Chybějící dálniční/daňová známka.
 Ajoneuvoverorikkomus. Tuulilasin verotarra puuttuu. = Daňový přestupek: Na skle chybí daňový štítek.
 
-//Wiring (Elektroinstalace)
+//Wiring
 AMPLIFIER POWER = Napájení zesilovače
 AMPLIFIER AUDIO = Audio zesilovače
 AUDIO OUT LEFT = Audio výstup levý
@@ -569,7 +568,7 @@ IGNITION COIL = Zapalovací cívka
 LIGHT SWITCH = Spínač světel
 IGNITION SWITCH = Spínač zapalování
 
-//Death Screens (Novinové titulky po smrti)
+//Death Screens
 Liikenneonnettomuus vaati jälleen nuoren uhrin = Dopravní nehoda\nsi vyžádala\ndalší mladou oběť
 Young male dead in a traffic accident = Mladý muž\nzahynul při\ndopravní nehodě
 Peräjärveläinen mies kuoli sydänkohtaukseen = Muž z Peräjärvi\nzemřel na\nsrdeční příhodu
@@ -629,7 +628,7 @@ Prisoner dead in unexplained conditions = Vězeň nalezen\nmrtvý za dosud\nneja
 Nuori mies kuoli puukotuksen uhrina = Mladý muž\nzemřel po\nnapadení nožem
 Local male stabbed to death = Místní muž\nbyl ubodán\nk smrti
 
-/Items and Parts (Předměty a Součástky)
+/Items and Parts
 note = vzkaz
 moose meat = losí maso
 grilled moose meat = grilované losí maso
@@ -829,7 +828,7 @@ RALLISPRINT-SM PERÄJÄRVI, SUNNUNTAI = RALLY SPRINT PERÄJÄRVI, NEDĚLE
 RALLISPRINT-SM PERÄJÄRVI, LAUANTAI = RALLY SPRINT PERÄJÄRVI, SOBOTA
 Rallisprint-SM Peräjärvi, Sunnantai = Rally Sprint Peräjärvi, Neděle
 
-//Computer (Počítač)
+//Compute
 004022 KB OK.... = 004022 KB OK....
 BAUD RATE = Přenosová rychlost (Baud)
 NOT CONNECTED = NEPŘIPOJENO
@@ -1290,7 +1289,7 @@ throttle linkage = lanko plynu
 store = obchod
 haybales = balíky sena
 
-//Tools (Nářadí)
+//Tools
 ruler = pravítko
 sparkplug wrench = klíč na svíčky
 screwdriver = šroubovák
@@ -1321,7 +1320,7 @@ socket(13) = ořech (13)
 socket(14) = ořech (14)
 socket(15) = ořech (15)
 
-//Car Parts (Autodíly)
+//Car Parts
 airfilter = vzduchový filtr
 gasoline = benzín
 diesel = nafta
@@ -1586,15 +1585,15 @@ digging bar = páčidlo
 BEND SUSPENSION MOUNTS = OHNOUT ÚCHYTY PODVOZKU
 notepad = poznámkový blok
 
-//Human Body (Části těla - pro mechaniku zranění)
-rag = hadr
+//Human Body
+rag = oblečení
 thigh = stehno
 leg = noha
 arm = paže
 shoulder = rameno
 shoulders = ramena
 
-//Sewage Customers (Zákazníci na fekálie)
+//Sewage Customers
 "Our sewage well is full of crap. Come and empty it." = "Naše žumpa je plná sraček. Přijeď ji vyprázdnit."
 "My dad asked me to call about the sewage well, it is full. He is drunk." = "Táta mě poslal, abych zavolal kvůli žumpě, je plná. On je totiž opilej."
 "Hi! Our shit is full of crap... sewage well. You should come here and suck it..." = "Ahoj! Naše hovna jsou plná sraček... teda, žumpa je plná. Měl bys přijet a vysát to..."
@@ -1697,7 +1696,7 @@ shoulders = ramena
 "The pussy of all pussies!" = "Ty seš ale čurák všech čuráků"
 "God of thunder!" = "U všech hromů!"
 "God help me already!" = "Bože pomož mi"
-"You dick of a pussy." = "Ty srabáckej čuráku."
+"You dick of a pussy." = "Ty čuráku."
 "You truly are a wart of a dick." = "Seš fakt kokot"
 "I don't have energy to watch your face." = "Nemám náladu se divát na tvůj ksicht."
 "You dick of a pussy!" = "Ty zmrde!"
