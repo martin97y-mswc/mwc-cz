@@ -247,10 +247,10 @@ RALLY LIGHTS RIGHT = FEUX DE RALLYE DROITS
 TURN SIGNAL SWITCH = COMMODO DE CLIGNOTANT
 WIPER MOTOR = MOTEUR D’ESSUIE-GLACE
 
-Vehicle requires repairs and adjustments. Not suitable for road use. = Le vehicule necessite des\nreparations et des reglages.\nRefuse a l’inspection.
-Korjattavaa löytyy. Ei tieliikenteeseen soveltuva. = Le vehicule necessite des\nreparations et des reglages.\nRefuse a l’inspection.
-Vehicle is not matching vinplate or options package. = Le numero d’identification\n(VIN) et le pack\nd’options ne correspondent pas.
-Ajoneuvo ei vastaa rakenteeltaan tai ulkonäöltään tyyppi-kilpeä tai varustetasoa. = La structure ou l’apparence du\nvehicule ne correspond pas a la plaque\nde type ou au niveau d’equipement.
+Vehicle requires repairs and adjustments. Not suitable for road use. = Vehicle requires repairs and adjustments. Not suitable for road use.
+Korjattavaa löytyy. Ei tieliikenteeseen soveltuva. = Auto potřebuje opravy seřízení. Není vhodné pro silnici.
+Vehicle is not matching vinplate or options package. = Vehicle is not matching vinplate or options package.
+Ajoneuvo ei vastaa rakenteeltaan tai ulkonäöltään tyyppi-kilpeä tai varustetasoa. = Vozidlo svou konstrukcí nebo vzhledem neodpovídá typovému štítku ani výbavě.
 
 //// Product Magazine
 parts magazine = magazine de pieces
@@ -338,15 +338,15 @@ SYÖTÄ TUNNUSLUKUSI JA PAINA 'ENT' = ZADEJTE PIN\n STISKNĚTE 'ENT'
 VÄÄRÄ TUNNUSLUKU OTA KORTTI = ŠPATNÝ PIN\n\n VEZMĚTE SI KARTU
 
 //// Repair Shop
-Custom automaalaus / custom paint = peinture personnalisee
-Metalliväri / metallic color = peinture metallisee
-Alkuperäisväri / original color = peinture d’origine
-Tehtaan erikoismaalaus / factory special paint = peinture speciale usine
-Vanteet metalliväri / Rim metallic = peinture metallisee des jantes
-Vanteet maalattuna / Rim paint = peinture des jantes
-Vanteiden kiilotus / Rim polish = polissage des jantes
-COST BREAKDOWN = detail des coûts
-"You can take my Bachglotz if you need to get back home." = "Tu peux prendre mon Bachglotz si tu dois rentrer."
+Custom automaalaus / custom paint = custom lak
+Metalliväri / metallic color = metalická barva
+Alkuperäisväri / original color = originální barva
+Tehtaan erikoismaalaus / factory special paint = speciální firemní lak
+Vanteet metalliväri / Rim metallic = metallické disky
+Vanteet maalattuna / Rim paint = Přebarvit disky
+Vanteiden kiilotus / Rim polish = Vyleštit disky
+COST BREAKDOWN = COST BREAKDOWN
+"You can take my Bachglotz if you need to get back home." = "Můžeš si vzít Bachglotz jestli potřebuješ domů"
 
 //// Ice Race
 original sheet metal required = tolerie d’origine requise
@@ -495,7 +495,7 @@ Speeding. 140km/h at 80km/h vehicle limit. = Exces de vitesse. 140 km/h avec lim
 Ylinopeus. 140km/h 80km/h rajoitetulla = Exces de vitesse. 140 km/h avec limitation vehicule a 80 km/h.
 
 //// Teletext
-102 KOTIMAA 130 ULKOMAAT 175 PÖRSSI = 102 NATIONAL 130 INTERNATIONAL 175 BOURSE
+102 KOTIMAA 130 ULKOMAAT 175 PÖRSSI = 102 DOMŮ 130 INTERNATIONAL 175 BOURSE
 PÖRSSI RAAKA-AINEET = BOURSE MATIERES PREMIERES
 ROMURAUTA HINTAKEHITYS 10 PV = EVOLUTION PRIX FERRAILLE 10 J
 GRAAFI = GRAPHIQUE
@@ -533,9 +533,9 @@ tulossa keväällä 1999 = sortie prevue printemps 1999
 SOITA JA TILAA HALUTUT TUOTTEET NUMEROSTA 0511-8510. PUHELUN HINTA 15MK/MIN + PPM. POSTIMAKSUT LISÄTÄÄN HINTAAN. NOPEA TOIMITUS! SOITA 0511-8510! = Commandez par telephone au 0511-8510. Coût : 15 MK/min + PPM. Frais de port en supplement. Livraison rapide ! Appelez le 0511-8510 !
 
 //// Computer POS
-Copying... 0% = COPIE... 0%
-Data error reading drive A = Erreur de lecture du lecteur A
-Incorrect command. = Commande incorrecte.
+Copying... 0% = Kopíruju0%
+Data error reading drive A = Data error při čtení disku A
+Incorrect command. = Nesprávný příkaz.
 The system cannot find the path specified. = Le systeme ne trouve pas le chemin specifie.
 Formatting... 0% = FORMATAGE... 0%
 INCORRECT BAUD SETTING = PARAMETRE BAUD INCORRECT
@@ -592,32 +592,32 @@ COULD NOT CONNECT = IMPOSSIBLE DE SE CONNECTER
 "So I thought the pool table was a good purchase, but they didnt include the balls and sticks. Useless decoration, damn!" = "Myslel jsem, že kulečníkový stůl bude dobrý nákup, ale nepřibalili koule ani tága. K ničemu, sakra!"
 "I visited the PSK. I think it is completely useless, we already had everything we need here. Now it is all messed up!" = "Navštívil jsem PSK. Myslím, že je úplně zbytečné, už jsme tu měli všechno, co potřebujeme. Teď je všechno zkažené!"
 "Nice to see you are here in Nappo as well. Don't go to the PSK, while maybe there is gas and food, the soul lies here with us!" = "Rád vidím, že jsi tu taky v Nappo. Nechoď do PSK, i když tam možná je benzín a jídlo, duše je tu u nás!"
-"Let me say you, those things like PSK will kill places like this. In ten years we don't have anything. Who needs salmon soup?" = "Je te le dis : des trucs comme le PSK vont tuer des endroits comme celui-ci. Dans dix ans, on n’aura plus rien. Qui a besoin de soupe au saumon ?"
-"The hell with the PSK! Things used to be good. How could I compete with mammoth like that? What does À la carte even mean? The hell with it." = "Au diable le PSK ! Avant, ca allait bien. Comment veux-tu que je lutte contre un mammouth pareil ? Et puis c’est quoi, « a la carte » ? Au diable tout ca."
-"I had many good plans for the store. But well, I didnt really get a chance. At least I am able to run this Pub still." = "J’avais plein de bons plans pour la boutique. Mais bon, je n’ai pas vraiment eu ma chance. Au moins je peux encore tenir ce pub."
-"What do you think about the decoration of the pub? I am sure you dont see these landscapes in the PSK station, thats for sure!" = "Tu penses quoi de la deco du pub ? Je suis sûr que tu ne vois pas ces paysages a la station PSK, ca c’est certain !"
-"Oh it is so fresh winter weather. I need to warm up the house again, basically thats what I do in my spare time. There is no money to fix the house." = "Ah, quel froid d’hiver bien vif. Je dois encore rechauffer la maison… en gros c’est ca que je fais de mon temps libre. Il n’y a pas d’argent pour reparer la maison."
-"I've been thinking about karaoke-nights. I wonder if there are any willing singers in this place. Probably just a money sink anyway." = "Je pense a faire des soirees karaoke. Je me demande s’il y a des volontaires pour chanter par ici. Probablement juste un gouffre a fric, de toute facon."
-"Sure, I have some almost fresh coffee in the thermocan. Wait a second." = "Bien sûr, j’ai du cafe presque frais dans la thermos. Attends une seconde."
-"So cup of good coffee? Coming your way!" = "Alors, une tasse de bon cafe ? Ça arrive !"
-"A one coffee COP, for you." = "Un cafe COP, pour toi."
-"And that's how we cure the thirst." = "Et voila comment on etanche la soif."
-"Good coffee coming your way." = "Du bon cafe arrive pour toi."
-"Okay, wait a second." = "OK, attends une seconde."
-"Thank you, coming up." = "Merci, ca arrive."
-"So there, your welcome!" = "Voila, de rien !"
-"Be good!" = "Sois sage !"
-"There! Anything else, perhaps?" = "Voila ! Autre chose, peut-être ?"
-"Oh well.. Fuck you instead." = "Ah bon... Va te faire foutre alors."
+"Let me say you, those things like PSK will kill places like this. In ten years we don't have anything. Who needs salmon soup?" = "Dovol mi říct, že věci jako PSK zabíjejí místa jako toto. Za deset let tu nic nebude. Kdo potřebuje lososovou polévku?"
+"The hell with the PSK! Things used to be good. How could I compete with mammoth like that? What does À la carte even mean? The hell with it." = "Do prdele s PSK! Dřív to bývalo dobré. Jak jsem mohl soutěžit s takovým gigantem? Co vůbec znamená À la carte? Do háje s tím."
+"I had many good plans for the store. But well, I didnt really get a chance. At least I am able to run this Pub still." = "Měl jsem spoustu dobrých plánů pro obchod. Ale no, moc příležitostí jsem nedostal. Aspoň tuhle hospodu ještě zvládám provozovat."
+"What do you think about the decoration of the pub? I am sure you dont see these landscapes in the PSK station, thats for sure!" = "Co si myslíš o výzdobě hospody? Jsem si jistý, že takové krajiny v PSK určitě neuvidíš!!"
+"Oh it is so fresh winter weather. I need to warm up the house again, basically thats what I do in my spare time. There is no money to fix the house." = "Ach, je tak čerstvé zimní počasí. Musím zase zatopit v domě, vlastně to dělám ve volném čase. Na opravu domu nejsou peníze.
+"I've been thinking about karaoke-nights. I wonder if there are any willing singers in this place. Probably just a money sink anyway." = "Přemýšlel jsem o karaoke večerech. Zajímalo by mě, jestli tu jsou nějací ochotní zpěváci. Pravděpodobně to bude stejně jen stráta peněz."
+"Sure, I have some almost fresh coffee in the thermocan. Wait a second." = "Jasně, mám skoro čerstvou kávu v termosce. Počkej chvíli."
+"So cup of good coffee? Coming your way!" = "Tak šálek dobré kávy? Hned to máš!"
+"A one coffee COP, for you." = "Jeden kafe, COP, pro tebe."
+"And that's how we cure the thirst." = "A takhle léčíme žízeň."
+"Good coffee coming your way." = "Jedno dobré kafe."
+"Okay, wait a second." = "Okej, počkej chvilu."
+"Thank you, coming up." = "Diky, hned to bude."
+"So there, your welcome!" = "Tady máš!"
+"Be good!" = "Hodně štestí!"
+"There! Anything else, perhaps?" = "Tady, Ještě něco?"
+"Oh well.. Fuck you instead." = "Viš co, Jdi do prdele."
 
 //// Uncle
-"It is way better food in this restaurant compared to the salted water I got used to eat. You gotta eat something, right." = "On mange bien mieux dans ce resto que l’eau salee a laquelle j’etais habitue. Faut bien manger un truc, hein."
-"Marjatta! My love one... No no no, I really can't sing." = "Marjatta ! Mon amour… Non non non, je ne sais vraiment pas chanter."
-"Marjatta! My love one... Really I can't sing that is for sure." = "Marjatta ! Mon amour… Vraiment, je ne sais pas chanter, c’est certain."
-"I am not really a singer. I truly sound like like a crow. I met Jörkka Sten once, but can't really remember much about that." = "Je ne suis pas vraiment chanteur. Je chante comme un corbeau. J’ai rencontre Jörkka Sten une fois, mais je ne m’en souviens pas tres bien."
-"Would you mind to drive me to Kittilä one day? I would like to see Raija again. Could be fun road trip just between us dudes." = "Ça te dirait de me conduire a Kittilä un de ces jours ? J’aimerais revoir Raija. Ça pourrait être un road trip sympa, juste entre mecs."
-"The waitresses here are very nice. But not like Raija for sure. They try to hit me, but I belong to Raija!" = "Les serveuses ici sont tres gentilles. Mais pas comme Raija, c’est sûr. Elles essaient de me draguer, mais moi j’appartiens a Raija !"
-"Tenu and I sometimes watch the rally from TV. Not sure if he can see anything though. You should come to watch too." = "Tenu et moi, on regarde parfois le rallye a la tele. Je ne sais pas s’il voit quelque chose, mais tu devrais venir regarder aussi."
+"It is way better food in this restaurant compared to the salted water I got used to eat. You gotta eat something, right." = "V tady té restauraci je lepší jídlo než ta slaná voda co jsem jedl. Musíš něco jíst.
+"Marjatta! My love one... No no no, I really can't sing." = "Marjatta !Moje milá... Ne ne ne, Vážně nemůžu spívat"
+"Marjatta! My love one... Really I can't sing that is for sure." = "Marjatta !Moje milá... Fakt tohle nemůžu spívat"
+"I am not really a singer. I truly sound like like a crow. I met Jörkka Sten once, but can't really remember much about that." = "Nejsem zrovna zpěvák. Opravdu znívám jako vrána. Jednou jsem potkal Jörkka Stena, ale moc si to nepamatuju.
+"Would you mind to drive me to Kittilä one day? I would like to see Raija again. Could be fun road trip just between us dudes." = "Nevadilo by ti, kdybys mě někdy vzal autem do Kittilä? Rád bych zase viděl Raiju. Mohl by to být fajn road trip, jen mezi námi chlapama."
+"The waitresses here are very nice. But not like Raija for sure. They try to hit me, but I belong to Raija!" = "Číšnice tady jsou moc milé. Ale rozhodně ne jako Raija. Snaží se mě sbalit, ale já patřím Raijě!"
+"Tenu and I sometimes watch the rally from TV. Not sure if he can see anything though. You should come to watch too." = "S Tenuem se občas díváme na rally v televizi. Nejsem si jistý, jestli vůbec něco vidí. Měl bys se přijít dívat taky."
 
 //// Factory Job
 SHOW TAG CARD = MONTRER CARTE D’EMPLOYE
@@ -672,11 +672,11 @@ FOLD A BOX = PLIER UNE BOÎTE
 "Then just place the product box inside the packaging box and thats it!" = "Ensuite, vous mettez simplement la boite produit dans la boite d’emballage, et voila !"
 
 //// HouseWood CarPos
-Car for sale. = Voiture a vendre.
-PAY 500 MK = PAYER 500 MK
-"I would like to get 500mk for it." = "Je voudrais en tirer 500 MK."
-"Well theres the car" = "Bon, la voiture est la."
-"Thank you! And if you can bring me some firewoods." = "Merci ! Et si tu peux, apporte-moi aussi un peu de bois."
+Car for sale. = Auto na prodej.
+PAY 500 MK = Zaplatit 500 MK
+"I would like to get 500mk for it." = "Chtěl bych za to 500 MK."
+"Well theres the car" = "No, a tady je to auto"
+"Thank you! And if you can bring me some firewoods." = "Díky! A kdyby si mohl dovez mi nejaké dřevo "
 
 //// Taxi Job
 DOME LIGHT = LUMIERE DE PLAFOND
@@ -732,22 +732,22 @@ Hello! I would like to order a taxi to Bird Watch Tower. = Bonjour ! Je voudrais
 Hello! I would like to order a taxi to Loppentie 401. = Bonjour ! Je voudrais commander un taxi pour Loppentie 401.
 
 //// Advert
-"FOR SALE! Corris Rivett. Project condition. Only little rust. Comes with 2.0 Block + Head. CHEAP! Phone: 08-609553 / Reijo" = "À VENDRE ! Corris Rivett. Etat projet. Peu de rouille. Avec bloc 2.0 + culasse. PAS CHER ! Tel : 08-609553 / Reijo"
-"Sure yes I have the car here. Come here to check it out, you know where I live!" = "Oui, bien sûr, la voiture est ici. Viens la voir, tu sais où j’habite !"
-"EASY MONEY! Become a advert mailer at Peräjärvi region. Drivers licence recommended. Interested? Call us: 08-231206" = "ARGENT FACILE ! Devenez distributeur de pubs dans la region de Peräjärvi. Permis recommande. Interesse ? Appelez : 08-231206"
-"Hi there. We have the mailer position open. It is up to you whether you do it or not. We send the adverts to you, have fun!" = "Salut. Le poste de distributeur est disponible. C’est a toi de voir si tu veux le faire ou non. On t’envoie les pubs, amuse-toi bien !"
-"Looking for a reliable driver to operate a taxicab. Call 08-712112" = "Recherche chauffeur fiable pour conduire un taxi. Appelez le 08-712112"
+"FOR SALE! Corris Rivett. Project condition. Only little rust. Comes with 2.0 Block + Head. CHEAP! Phone: 08-609553 / Reijo" = "NA PRODEJ!! Corris Rivett. Jenom trochu zrezlé. Je k němu 2.0 Blok + Hlava motoru. LEVNÉ!! Telefon 08-609553 / Reijo"
+"Sure yes I have the car here. Come here to check it out, you know where I live!" = "Jasně mám tady to auto. Přijeď a zkoukni to, víš kde bydlím"
+"EASY MONEY! Become a advert mailer at Peräjärvi region. Drivers licence recommended. Interested? Call us: 08-231206" = "RYCHLÝ PRACHY!! Staň se pošťákem v regionu Peräjärvi. Doporučen řidičák. Zavolej na 08-231206"
+"Hi there. We have the mailer position open. It is up to you whether you do it or not. We send the adverts to you, have fun!" = "Dobrý den. Máme tu volnou pozici. Je to na tobě jestli to budeš dělat nebo ne.
+"Looking for a reliable driver to operate a taxicab. Call 08-712112" = "Hledám spolehlivého řidiče do taxíku. Zavolej na 08-712112"
 
 //// Fridge
-"Remember to keep the house warm, otherwise water pipes will freeze!" = "N’oublie pas de garder la maison au chaud, sinon les canalisations vont geler !"
-"And if locals call for firewood, just do it and don't lay around!" = "Et si les gens du coin appellent pour du bois, fais-le, ne traine pas !"
-"And you need to stop drinking! You are a grown up man now. Look what happened to my brother. That's your future." = "Et tu dois arrêter de boire ! Tu es un homme adulte maintenant. Regarde ce qui est arrive a mon frere. C’est ton avenir."
-"We are in Madeira now and we will come back when it gets warmer there! Mom and Dad." = "On est a Madere et on reviendra quand il fera plus chaud la-bas ! Maman et Papa."
+"Remember to keep the house warm, otherwise water pipes will freeze!" = "Nezapomeň vytopit barák, jinak trubky zamrznou!"
+"And if locals call for firewood, just do it and don't lay around!" = "Kdyby ti zavolali sousedi pro dřevo, tak nebuď línej!"
+"And you need to stop drinking! You are a grown up man now. Look what happened to my brother. That's your future." = "A prestaň chlastat!! Už jseš dospělej. Podívej se co se stalo mýmu bratrovi. To je tvoje budoucnost."
+"We are in Madeira now and we will come back when it gets warmer there! Mom and Dad." = "Jsme na Madeiře a vrátíme se až se oteplí. Mama a tata"
 
 //// Farmer HelloDrunk
-"Are you drunk?" = "T’es bourre ?"
-"So you are still having a midsummer festival?" = "Alors vous fêtez encore la Saint-Jean ?"
+"Are you drunk?" = "Seš nalitej?"
+"So you are still having a midsummer festival?" = "Pořád jsi na letním festivalu?"
 
 //// Disclaimer
-This game is in Early Access. That means game is currently under active development. Game might be partially broken and is subject to constant change. You are able to give feedbackand suggest features in official My Winter Car Steam forum. Have fun! :) = Ce jeu est en acces anticipe. Cela signifie qu’il est actuellement en developpement \nactif. Le jeu peut être partiellement casse et sujet a des changements constants. Vous pouvez \ndonner votre avis et suggerer des fonctionnalites sur le forum Steam officiel de My Winter Car. Amusez-vous bien ! :)
-I UNDERSTAND = JE COMPRENDS
+This game is in Early Access. That means game is currently under active development. Game might be partially broken and is subject to constant change. You are able to give feedbackand suggest features in official My Winter Car Steam forum. Have fun! :) = Tato hra je v Early Access. To znamená, že je hra momentálně ve vývoji. Hra může být částečně nefunkční a podléhá neustálým změnám. Můžete poskytovat zpětnou vazbu a navrhovat funkce na oficiálním fóru My Winter Car na Steamu. Bavte se! :)
+I UNDERSTAND = Rozumím
