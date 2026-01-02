@@ -5,7 +5,7 @@
 # Special translation for price/phone line format
 # Used in lines like "h.149,- puh.123456" -> "149 MK, ${PHONE} - (08)123456"
 # Example) PHONE = PHONE  : "h.149,- puh.123456" -> "149 MK, PHONE - (08)123456"
-PHONE = Telefon
+PHONE = Tel.
 
 # Magazine ad translations
 Recycling Rivett junk parts = Prodám staré díly Rivett
@@ -292,14 +292,14 @@ wipersmo. = wipersmo.
 phk.moot. = motor stěrače
 alterntr. = alternátor
 laturi = alternátor
-drv.seat = sedačka řidiče
-v.istuin = sedačka řidiče
-psg.seat = sedačka spolujezdce
-o.istuin = sedačka spolujezdce
+drv.seat = sedačka řid.
+v.istuin = sedačka řid.
+psg.seat = sedačka spolu.
+o.istuin = sedačka spolu.
 rearbench = zadní sedačka
 t.penkki = zadní sedačka
-flect = ventilátor chladiče
-flekti = ventilátor chladiče
+flect = ventilátor chl.
+flekti = ventilátor chl.
 crank = crank
 kiertoknk = kliková hřídel
 muffler = muffler
@@ -319,7 +319,7 @@ vauhtipy. = setrvačník
 gt-header = gt-header
 gt-pakos. = GT svody
 headgskt. = headgskt
-kansiphv. = těsnění hlavy válců
+kansiphv. = těsnění hlavy
 b.booster = b.booster
 jarruteh. = posilovač brzd
 ster.rack = ster.rack
