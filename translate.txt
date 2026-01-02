@@ -1,5 +1,5 @@
 ﻿// My Winter Car Strings
-NOW LOADING YEAR 1999... = VRACÍM SE DO ROKU 1999
+NOW LOADING YEAR 1999... = VRACÍM SE DO ROKU 1999...
 PROBLEM = PROBLÉM
 THIRST = ŽÍZEŇ
 CASH = PENÍZE
@@ -715,5 +715,5 @@ Hello! I would like to order a taxi to Loppentie 401. = Bonjour ! Je voudrais co
 "So you are still having a midsummer festival?" = "Pořád jsi na letním festivalu?"
 
 //// Disclaimer
-This game is in Early Access. That means game is currently under active development. Game might be partially broken and is subject to constant change. You are able to give feedbackand suggest features in official My Winter Car Steam forum. Have fun! :) = Tato hra je v Early Access. To znamená, že je hra momentálně ve vývoji. Hra může být částečně nefunkční a podléhá neustálým změnám. Můžete poskytovat zpětnou vazbu a navrhovat funkce na oficiálním fóru My Winter Car na Steamu. Bavte se! :)
+This game is in Early Access. That means game is currently under active development. Game might be partially broken and is subject to constant change. You are able to give feedbackand suggest features in official My Winter Car Steam forum. Have fun! :) = Tato hra je v Early Access. To znamená, že je hra momentálně ve vývoji.\n Hra může být částečně nefunkční a podléhá neustálým změnám.\n Můžete poskytovat zpětnou vazbu a navrhovat funkce\n na oficiálním fóru My Winter Car na Steamu. Bavte se! :)
 I UNDERSTAND = Rozumím
