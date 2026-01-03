@@ -445,58 +445,58 @@ No additional charges. = Aucun montant a recouvrer.
 Ei maksettavaa. = Aucun montant a recouvrer.
 
 //// Phone Bill
-KAUKOPUHELUT (KPL): = APPELS LONGUE DISTANCE (NB) :
-KAUKOPUHELUT (MIN): = APPELS LONGUE DISTANCE (MIN) :
+KAUKOPUHELUT (KPL): = KAUKOPUHELUT (KPL):
+KAUKOPUHELUT (MIN): = KAUKOPUHELUT (MIN):
 
 //// Ticket Sheet
-Speeding offences noted by automatic traffic control. Alivieska VT 70, speed limit 80 km/h. SPEED KM/H DAY FINE QUANTITY FINE AMOUNT MK = Infractions de vitesse relevees par controle automatique.\nAlivieska VT 70, limite 80 km/h.\nVITESSE KM/H NOMBRE DE JOURS-AMENDE MONTANT DE L’AMENDE MK
-Automaattisen nopeusvalvonnan kirjaamat ylinopeudet. Alivieska VT 70, sallittu nopeus 80 km/h. NOPEUS KM/H PÄIVÄSAKKOJEN LKM RAHAMÄÄRÄ MK = Infractions de vitesse relevees par controle automatique.\nAlivieska VT 70, limite 80 km/h.\nVITESSE KM/H NOMBRE DE JOURS-AMENDE MONTANT DE L’AMENDE MK
-DUI. Alc breath test 3.2 per mille. = Conduite en etat d’ivresse. Ethylotest : 3,2 ‰.
-Rattijuopumus. Puhalluskokeessa 3.2 promillea. = Conduite en etat d’ivresse. Ethylotest : 3,2 ‰.
-Illegal dumping of waste, 10000 litres. = Depot illegal de dechets, 10000 litres.
-10000 litraa lietettä kaadettu maastoon. = Depot illegal de dechets, 10000 litres.
-Speeding. 140km/h at 80km/h limit zone. = Exces de vitesse. 140 km/h en zone limitee a 80 km/h.
-Ylinopeus. 80km/h rajoitusalueella 140km/h = Exces de vitesse. 140 km/h en zone limitee a 80 km/h.
-Speeding. 140km/h at 80km/h vehicle limit. = Exces de vitesse. 140 km/h avec limitation vehicule a 80 km/h.
-Ylinopeus. 140km/h 80km/h rajoitetulla = Exces de vitesse. 140 km/h avec limitation vehicule a 80 km/h.
+Speeding offences noted by automatic traffic control. Alivieska VT 70, speed limit 80 km/h. SPEED KM/H DAY FINE QUANTITY FINE AMOUNT MK = Speeding offences noted by automatic traffic control. Alivieska VT 70, speed limit 80 km/h. SPEED KM/H DAY FINE QUANTITY FINE AMOUNT MK
+Automaattisen nopeusvalvonnan kirjaamat ylinopeudet. Alivieska VT 70, sallittu nopeus 80 km/h. NOPEUS KM/H PÄIVÄSAKKOJEN LKM RAHAMÄÄRÄ MK = Automaattisen nopeusvalvonnan kirjaamat ylinopeudet. Alivieska VT 70, sallittu nopeus 80 km/h. NOPEUS KM/H PÄIVÄSAKKOJEN LKM RAHAMÄÄRÄ MK
+DUI. Alc breath test 3.2 per mille. = DUI. Alc breath test 3.2 per mille.
+Rattijuopumus. Puhalluskokeessa 3.2 promillea. = Rattijuopumus. Puhalluskokeessa 3.2 promillea.
+Illegal dumping of waste, 10000 litres. = Illegal dumping of waste, 10000 litres
+10000 litraa lietettä kaadettu maastoon. = 10000 litraa lietettä kaadettu maastoon.
+Speeding. 140km/h at 80km/h limit zone. = Speeding. 140km/h at 80km/h limit zone.
+Ylinopeus. 80km/h rajoitusalueella 140km/h = Ylinopeus. 80km/h rajoitusalueella 140km/h
+Speeding. 140km/h at 80km/h vehicle limit. = Speeding. 140km/h at 80km/h vehicle limit.
+Ylinopeus. 140km/h 80km/h rajoitetulla = Ylinopeus. 140km/h 80km/h rajoitetulla
 
 //// Teletext
-102 KOTIMAA 130 ULKOMAAT 175 PÖRSSI = 102 NATIONAL 130 INTERNATIONAL 175 BOURSE
-PÖRSSI RAAKA-AINEET = BOURSE MATIERES PREMIERES
-ROMURAUTA HINTAKEHITYS 10 PV = EVOLUTION PRIX FERRAILLE 10 J
-GRAAFI = GRAPHIQUE
-ARVO MK/KG = VALEUR MK/KG
-SADETUTKA ...................... 189 = RADAR METEO ...................... 189
-188 PAIKALLISSÄÄ = 188 METEO LOCALE
-Luvassa lumisadet-ta ja pakkasta. = Chutes de neige et gel attendus.\n
-Odotettavissa pakkasta tai kylmenevää. = Temperatures negatives ou refroidissement attendu.\n
-181 KOKO SUOMI 189 SADETUTKA = 181 TOUTE LA FINLANDE 189 RADAR METEO
-lumisadetta = neige
-PAIKALLISSÄÄ = meteo locale
-säätila: = condition meteo :
-lämpötila: = temperature :
-NYT: = maintenant :
-pakkasta 33 astetta = -33 degres
-se = selkeää pi = pilvistä Ls = lumisadetta = se = Clair\npi = Nuageux\nLs = Neige
-SADETUTKA = radar de precipitations
-Lukka = Fermer
-JÄÄKIEKKO ....................... 240 = HOCKEY SUR GLACE ....................... 240
-Pääsarjan kierroksen 00 tulokset = Resultats de la journee 00 de la ligue principale
-JÄÄKIEKKO = Hockey sur glace
-240 TULOKSET = Resultats
-242 PISTEPÖRSSI = Classement des points
-Sarjatilanne kun pelattu 1 ottelua. = Classement apres 1 match joue.
-241 SARJATAULUKKO = 241 Tableau de la ligue
-PÄÄSARJA = Ligue principale
-302 MEGAVETO 200 URHEILU = 302 Megaveto 200 Sports
-301 LOTTO 200 URHEILU = 301 Lotto 200 Sports
-Kierros 2 pelikohteet = Pronostics de la journee 2
-Kierros 1 tulokset = Resultats de la journee 1
-MAANANTAI = Lundi
-MEGAVETO = Megaveto
-tulossa kesällä 1999 = sortie prevue ete 1999
-tulossa keväällä 1999 = sortie prevue printemps 1999
-SOITA JA TILAA HALUTUT TUOTTEET NUMEROSTA 0511-8510. PUHELUN HINTA 15MK/MIN + PPM. POSTIMAKSUT LISÄTÄÄN HINTAAN. NOPEA TOIMITUS! SOITA 0511-8510! = Commandez par telephone au 0511-8510. Coût : 15 MK/min + PPM. Frais de port en supplement. Livraison rapide ! Appelez le 0511-8510 !
+102 KOTIMAA 130 ULKOMAAT 175 PÖRSSI = 102 KOTIMAA 130 ULKOMAAT 175 PÖRSSI
+PÖRSSI RAAKA-AINEET = PÖRSSI RAAKA-AINEET
+ROMURAUTA HINTAKEHITYS 10 PV = ROMURAUTA HINTAKEHITYS 10 PV
+GRAAFI = GRAAFI
+ARVO MK/KG = ARVO MK/KG
+SADETUTKA ...................... 189 = SADETUTKA ...................... 189
+188 PAIKALLISSÄÄ = 188 PAIKALLISSÄÄ
+Luvassa lumisadet-ta ja pakkasta. = Luvassa lumisadet-ta ja pakkasta.
+Odotettavissa pakkasta tai kylmenevää. = Odotettavissa pakkasta tai kylmenevää.
+181 KOKO SUOMI 189 SADETUTKA = 181 KOKO SUOMI 189 SADETUTKA
+lumisadetta = lumisadetta
+PAIKALLISSÄÄ = PAIKALLISSÄÄ
+säätila: = säätila:
+lämpötila: = lämpötila:
+NYT: = NYT:
+pakkasta 33 astetta = pakkasta 33 astetta
+se = selkeää pi = pilvistä Ls = lumisadetta =  se = selkeää pi = pilvistä Ls = lumisadetta
+SADETUTKA = SADETUTKA
+Lukka = Lukka
+JÄÄKIEKKO ....................... 240 = JÄÄKIEKKO ....................... 240
+Pääsarjan kierroksen 00 tulokset = Pääsarjan kierroksen 00 tulokset
+JÄÄKIEKKO = JÄÄKIEKKO
+240 TULOKSET = 240 TULOKSET
+242 PISTEPÖRSSI = 242 PISTEPÖRSSI
+Sarjatilanne kun pelattu 1 ottelua. = Sarjatilanne kun pelattu 1 ottelua.
+241 SARJATAULUKKO = 241 SARJATAULUKKO
+PÄÄSARJA = PÄÄSARJA
+302 MEGAVETO 200 URHEILU = 302 MEGAVETO 200 URHEILU
+301 LOTTO 200 URHEILU = 301 LOTTO 200 URHEILU
+Kierros 2 pelikohteet = Kierros 2 pelikohteet
+Kierros 1 tulokset = Kierros 1 tulokset
+MAANANTAI = MAANANTAI
+MEGAVETO = MEGAVETO
+tulossa kesällä 1999 = tulossa kesällä 1999
+tulossa keväällä 1999 = tulossa keväällä 1999
+SOITA JA TILAA HALUTUT TUOTTEET NUMEROSTA 0511-8510. PUHELUN HINTA 15MK/MIN + PPM. POSTIMAKSUT LISÄTÄÄN HINTAAN. NOPEA TOIMITUS! SOITA 0511-8510! = SOITA JA TILAA HALUTUT TUOTTEET NUMEROSTA 0511-8510. PUHELUN HINTA 15MK/MIN + PPM. POSTIMAKSUT LISÄTÄÄN HINTAAN. NOPEA TOIMITUS! SOITA 0511-8510!
 
 //// Computer POS
 Copying... 0% = Kopíruju0%
