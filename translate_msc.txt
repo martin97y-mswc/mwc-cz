@@ -271,7 +271,7 @@ DRINK FROM STASH = NAPÍT SE
 //Shop
 SAUSAGES 10.95 MK = PÁRKY 10.95 MK
 PIZZA 9.95 MK = PIZZA 9.95 MK
-MILK 5.5 MK = MLÉKO 5.5 MK
+MILK 5.5 MK = MLÍKO 5.5 MK
 CHIPS 14.95 MK = ČIPSY 14.95 MK
 MACARON BOX 11.95 MK = MAKARONY 11.95 MK
 GRILL CHARCOAL 18.5 MK = UHLÍ 18.5 MK
@@ -294,7 +294,7 @@ SUOMI SEAT COVER 169 MK = SUOMI POTAHY SEDADEL 169 MK
 CIGARETTES 13.95 MK = CÍGA 13.95 MK
 COFFEE 19.95 MK = KÁVA 19.95 MK
 SUGAR 6.95 MK = CUKR 6.95 MK
-YEAST 13.95 MK = DROŽDÍ 8.95 MK
+YEAST 8.95 MK = DROŽDÍ 8.95 MK
 JUICE CONCENTRATE 12.95 MK = DŽUS 12.95 MK
 BUS TICKET 25 MK = JÍZDENKA 25 MK
 CIGARETTES 17 MK = CÍGA 17 MK
@@ -618,7 +618,7 @@ yeast = Droždí
 sugar = Cukr
 shopping bag = Nákupní taška
 grill charcoal = Uhlí
-milk = Mléko
+milk = Mlíko
 spoiled milk = Zkažené mléko
 empty pack = Prázdná krabice od mléka
 macaron box = Krabice makaronů
@@ -1264,7 +1264,7 @@ shoulders = ramena
 
 
 //Fleetari
-"Hello! What is on your mind young man?" = "Zdar! Co tu děláš?"
+"Hello! What is on your mind young man?" = "Nazdar, co chceš?"
 "That car of yours ruins my driveway." = "To tvoje auto mi ničí vjezd"
 "Why do you even come here if you don't have any money?" = "Proč sem chodíš, když nemáš prachy?"
 "Come back when you have the money." = "Vrať se, až budeš mít prachy."
