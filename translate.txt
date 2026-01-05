@@ -20,7 +20,7 @@ ARM 1+ = ARM 1+
 ARM 1- = ARM 1-
 ARM 2+ = ARM 2+
 ARM 2- = ARM 2-
-ACC = ZAPALOVÁNÍ
+ACC = IGNITION
 LIGHTS OFF = LIGHTS OFF
 LIGHTS PARK = LIGHTS PARK
 LIGHTS DRIVE = LIGHTS DRIVE
@@ -39,8 +39,8 @@ REMOVE JACKET = SUNDAT BUNDU
 REMOVE COVERALL = SUNDAT KOMBINÉZU
 PICK A CUP = VZÍT HRNEK
 BUY BETTING TICKET = KOUPIT LOS
-DETACH DRIVE SHAFT = ODPOJIT HNACÍ ŘÍDEL
-ATTACH DRIVE SHAFT = PŘIPOJIT HNACÍ ŘÍDEL
+DETACH DRIVE SHAFT = ODPOJIT HNACÍ HŘÍDEL
+ATTACH DRIVE SHAFT = PŘIPOJIT HNACÍ HŘÍDEL
 FEED THE LOG = VLOŽIT KLÁDU
 OVEN TEMPERATURE = TEPLOTA TROUBY
 UNEMPLOYMENT OFFICE = ÚŘAD NEZAMĚSTNANOSTI
@@ -71,20 +71,20 @@ COFFEE 10 MK = KÁVA 10 MK
 SAUSAGE 15 MK = PÁREK 15 MK
 SAUSAGES 10,95 MK = PÁRKY 10.95 MK
 
-energy drink = energy drink
-automatic transmission fluid = kapalina do aut.převodovky
-classifieds magazine = magazín
-sandbag = pytel s pískem
+energy drink = Energy Drink
+automatic transmission fluid = Kapalina do aut.převodovky
+classifieds magazine = Magazín
+sandbag = Pytel s pískem
 
-cable plug = kabelová zástrčka
-Lastname = příjmení
+cable plug = Kabelová přípojka
+Lastname = Příjmení
 
 SCRAPE WINDOW = ŠKRÁBAT OKNO
 BLOWER = VENTILÁTOR
 WINDOW HEATER = VYHŘÍVÁNÍ OKNA
 TEMPERATURE = TEPLOTA
 DIRECTION = SMĚR 
-REAR HITCH = ZADNÍ ZAŘÍZENÍ
+REAR HITCH = ZADNÍ HÁK
 PTO = POMOCNÝ POHON
 HAND BRAKE = RUČNÍ BRZDA
 WIPER = STĚRAČ
@@ -247,15 +247,15 @@ RALLY LIGHTS RIGHT = RALLY PRAVÉ SVĚTLO
 TURN SIGNAL SWITCH = PÁČKA SMĚROVEK
 WIPER MOTOR = MOTOR STĚRAČE
 
-Vehicle requires repairs and adjustments. Not suitable for road use. = Vehicle requires repairs and adjustments. Not suitable for road use.
-Korjattavaa löytyy. Ei tieliikenteeseen soveltuva. = Auto potřebuje opravy seřízení. Není vhodné pro silnici.
-Vehicle is not matching vinplate or options package. = Vehicle is not matching vinplate or options package.
-Ajoneuvo ei vastaa rakenteeltaan tai ulkonäöltään tyyppi-kilpeä tai varustetasoa. = Vozidlo svou konstrukcí nebo vzhledem neodpovídá typovému štítku ani výbavě.
+Vehicle requires repairs and adjustments. Not suitable for road use. = Vehicle requires repairs and adjustments.\n Not suitable for road use.
+Korjattavaa löytyy. Ei tieliikenteeseen soveltuva. = Not suitable for road use. = Vehicle requires repairs and adjustments.\n Not suitable for road use.
+Vehicle is not matching vinplate or options package. = Vehicle is not matching\n vinplate or options package.
+Ajoneuvo ei vastaa rakenteeltaan tai ulkonäöltään tyyppi-kilpeä tai varustetasoa. = Vehicle is not matching\n vinplate or options package.
 
 
 //// Death Screen
-Man found dead from hypothermia = Homme retrouve\nmort d’hypothermie
-Peräjärveläinen mies paleltui kuoliaaksi = Un homme\nde Peräjärvi\nest mort\ncongele.
+Man found dead from hypothermia = Man found dead\n from hypothermia
+Peräjärveläinen mies paleltui kuoliaaksi = Man found dead\n from hypothermia
 
 //// ATM
 INSERT CREDIT CARD = VLOŽIT KREDITKU
@@ -304,15 +304,15 @@ SYÖTÄ TUNNUSLUKUSI JA PAINA 'ENT' = ZADEJTE PIN\n STISKNĚTE 'ENT'
 VÄÄRÄ TUNNUSLUKU OTA KORTTI = ŠPATNÝ PIN\n\n VEZMĚTE SI KARTU
 
 //// Repair Shop
-Custom automaalaus / custom paint = custom lak
-Metalliväri / metallic color = metalická barva
-Alkuperäisväri / original color = originální barva
-Tehtaan erikoismaalaus / factory special paint = speciální firemní lak
-Vanteet metalliväri / Rim metallic = metallické disky
+Custom automaalaus / custom paint = Vlastní lak
+Metalliväri / metallic color = Metalická barva
+Alkuperäisväri / original color = Originální barva
+Tehtaan erikoismaalaus / factory special paint = Prvnotřídní lak
+Vanteet metalliväri / Rim metallic = Metalické disky
 Vanteet maalattuna / Rim paint = Přebarvit disky
 Vanteiden kiilotus / Rim polish = Vyleštit disky
-COST BREAKDOWN = COST BREAKDOWN
-"You can take my Bachglotz if you need to get back home." = "Můžeš si vzít Bachglotz jestli potřebuješ domů"
+COST BREAKDOWN = ROZPIS NÁKLADŮ
+"You can take my Bachglotz if you need to get back home." = "Můžeš si vzít můj Bachglotz jestli potřebuješ domů"
 
 //// Ice Race
 original sheet metal required = original sheet metal required
@@ -390,13 +390,13 @@ Parc Ferme violation: 0x = Parc Ferme violation: 0x
 Junior Cup - Luokitus 1/10 = Junior Cup - Luokitus 1/10
 
 //// Job Contract
-5.1 klo 18:00 = 5.1 klo 18:00
+5.1 klo 18:00 = 5.1 v 18:00
 1 week = 1 week
 1 viikko = 1 týden
 Upcoming Monday = Upcoming Monday
 Seuraava maanantai = Příští pondelí
 Packaging of mobile charger accessories = Packaging of mobile charger accessories
-Mobiililaturitarvikkeiden pakkaus = balení mobilních nabíječek
+Mobiililaturitarvikkeiden pakkaus = Balení mobilních nabíječek
 Mon / Tue = Mon / Tue
 MA / TI = PO/ÚT
 40 hours / week = 40 hours / week
@@ -499,16 +499,16 @@ tulossa keväällä 1999 = tulossa keväällä 1999
 SOITA JA TILAA HALUTUT TUOTTEET NUMEROSTA 0511-8510. PUHELUN HINTA 15MK/MIN + PPM. POSTIMAKSUT LISÄTÄÄN HINTAAN. NOPEA TOIMITUS! SOITA 0511-8510! = SOITA JA TILAA HALUTUT TUOTTEET NUMEROSTA 0511-8510. PUHELUN HINTA 15MK/MIN + PPM. POSTIMAKSUT LISÄTÄÄN HINTAAN. NOPEA TOIMITUS! SOITA 0511-8510!
 
 //// Computer POS
-Copying... 0% = Kopíruju0%
-Data error reading drive A = Data error při čtení disku A
-Incorrect command. = Nesprávný příkaz.
-The system cannot find the path specified. = Le systeme ne trouve pas le chemin specifie.
-Formatting... 0% = FORMATAGE... 0%
-INCORRECT BAUD SETTING = PARAMETRE BAUD INCORRECT
-Not enough memory = Memoire insuffisante
-BAUD SETTING CHANGED = PARAMETRE BAUD MODIFIE
-CONNECTION CLOSED = CONNEXION FERMEE
-COULD NOT CONNECT = IMPOSSIBLE DE SE CONNECTER
+Copying... 0% = Copying... 0%
+Data error reading drive A = Data error reading drive A
+Incorrect command. = Incorrect command.
+The system cannot find the path specified. = The system cannot find the path specified.
+Formatting... 0% = Formatting... 0%
+INCORRECT BAUD SETTING = INCORRECT BAUD SETTING
+Not enough memory = Not enough memory
+BAUD SETTING CHANGED = BAUD SETTING CHANGED
+CONNECTION CLOSED = CONNECTION CLOSED
+COULD NOT CONNECT = COULD NOT CONNECT
 
 //// Phone Call
 "I tried to call everybody. Please can you pick me up from the Pub and drive me home?" = "Zkoušel jsem volat všem. Přijedeš pro mě k hospodě a zavezeš mě domů  ?"
@@ -526,16 +526,16 @@ COULD NOT CONNECT = IMPOSSIBLE DE SE CONNECTER
 "Ah I see, I know these Rivett's for sure." = "Ah ano, znám tyhle auta."
 "It is so damn cold in this hall!" = "Kurva! Tady je zima!"
 "As expected, your car failed." = "Jak jsem čekal, neprošlo to."
-"Not sure how it is possible, but your car passed the inspection." = "Nevím jak je to možný, ale tahle sračka prošla."
+"Not sure how it is possible, but your car passed the inspection." = "Nevím jak je to možný, ale tenhle krám prošel."
 "I am so tired with this." = "Už mě to unavuje."
-"Let's get this folder of historical truths, and we'll check the Corris." = "Vezměme si tuhle složku s historickými pravdami a zkontrolujeme Corrisovu...."
-"Otherwise good, but built wrong. Better luck next time." = "Dobrý, ale nahovno postavený."
+"Let's get this folder of historical truths, and we'll check the Corris." = "Vezměme si tuhle složku s historickými pravdami a zkontrolujeme Rivetta...."
+"Otherwise good, but built wrong. Better luck next time." = "Dobrý, ale nahovno postavený, hodně štěstí přístě."
 "This car clearly meets the historical vehicle requirements. Good job!" = "Tohle auto jasně souhlasí s historickými požadavky."
 
 //// Peraportti
-"Hello! What would you like to eat today?" = "Dobrý den! Co by jste chtěli"
+"Hello! What would you like to eat today?" = "Dobrý den! Co by jste chtěli?"
 "Thank you! Food will be served at your table." = "Děkujeme! Jídlo vám doneseme ke stolu."
-"So, no money then? How about getting a job?" = "Nemáš peníze? co tahkle jít do pr*ce!"
+"So, no money then? How about getting a job?" = "Nemáš peníze? co tahkle jít do práce!"
 "Hello! Could I take your order?" = "Dobrý den! chcete objednat?"
 "Thank you for ordering!" = "Díky za objednání!"
 
@@ -574,19 +574,19 @@ COULD NOT CONNECT = IMPOSSIBLE DE SE CONNECTER
 "So there, your welcome!" = "Tady máš!"
 "Be good!" = "Hodně štestí!"
 "There! Anything else, perhaps?" = "Tady, Ještě něco?"
-"Oh well.. Fuck you instead." = "Viš co, Jdi do prdele."
+"Oh well.. Fuck you instead." = "Viš co, jdi do prdele."
 
 //// Uncle
 "It is way better food in this restaurant compared to the salted water I got used to eat. You gotta eat something, right." = "V tady té restauraci je lepší jídlo než ta slaná voda co jsem jedl. Musíš něco jíst.
-"Marjatta! My love one... No no no, I really can't sing." = "Marjatta !Moje milá... Ne ne ne, Vážně nemůžu spívat"
-"Marjatta! My love one... Really I can't sing that is for sure." = "Marjatta !Moje milá... Fakt tohle nemůžu spívat"
+"Marjatta! My love one... No no no, I really can't sing." = "Marjatta! Moje milá... Ne ne ne, Vážně nemůžu zpívat"
+"Marjatta! My love one... Really I can't sing that is for sure." = "Marjatta! Moje milá... Fakt tohle nemůžu zpívat"
 "I am not really a singer. I truly sound like like a crow. I met Jörkka Sten once, but can't really remember much about that." = "Nejsem zrovna zpěvák. Opravdu znívám jako vrána. Jednou jsem potkal Jörkka Stena, ale moc si to nepamatuju.
 "Would you mind to drive me to Kittilä one day? I would like to see Raija again. Could be fun road trip just between us dudes." = "Nevadilo by ti, kdybys mě někdy vzal autem do Kittilä? Rád bych zase viděl Raiju. Mohl by to být fajn road trip, jen mezi námi chlapama."
 "The waitresses here are very nice. But not like Raija for sure. They try to hit me, but I belong to Raija!" = "Číšnice tady jsou moc milé. Ale rozhodně ne jako Raija. Snaží se mě sbalit, ale já patřím Raijě!"
 "Tenu and I sometimes watch the rally from TV. Not sure if he can see anything though. You should come to watch too." = "S Tenuem se občas díváme na rally v televizi. Nejsem si jistý, jestli vůbec něco vidí. Měl bys se přijít dívat taky."
 
 //// Factory Job
-SHOW TAG CARD = PŘILOŽIT ZAMĚSTNASTNANECKOU KARTU
+SHOW TAG CARD = PŘILOŽIT ZAMĚSTNANECKOU KARTU
 PUNCH IN = PÍCHNOUT PŘÍCHOD
 PUNCH OUT = ODEJÍT Z PRÁCE
 PICK A CHARGER = VZÍT NABÍJEČKU
@@ -635,25 +635,25 @@ FOLD A BOX = PLIER UNE BOÎTE
 "Now you fold the product box..." = "Teď složíte box…"
 "And place charger and manual inside the plastic tray." = "A vložte nabíječku a návod do plastové přihrádky."
 "You put the tray inside the product box and it is done." = "Přihrádku vložíte do boxu a je hotovo."
-"Then just place the product box inside the packaging box and thats it!" = "Pak jen vložte produktový box do balicího boxu a je hotovo!"
+"Then just place the product box inside the packaging box and thats it!" = "Pak jen vložte produktový box do balícího boxu a je hotovo!"
 
 //// HouseWood CarPos
 Car for sale. = Auto na prodej.
 PAY 500 MK = Zaplatit 500 MK
 "I would like to get 500mk for it." = "Chtěl bych za to 500 MK."
 "Well theres the car" = "No, a tady je to auto"
-"Thank you! And if you can bring me some firewoods." = "Díky! A kdyby si mohl dovez mi nejaké dřevo "
+"Thank you! And if you can bring me some firewoods." = "Díky! A kdyby si mohl dovez mi nějaké dřevo "
 
 //// Taxi Job
 DOME LIGHT = INTERIÉROVÉ OSVĚTLENÍ
 PRINT RECEIPT = VYTISKNOUT ÚČTENKU
 TAKE RECEIPT = VZÍT ÚČTENKU
 ACCEPT PAYMENT = PŘIJMOUT PLATBU
-FUNCTION = FUNCKE 
+FUNCTION = FUNKCE
 MODE SELECT = VYBRAT MÓD
 "Good afternoon!" = "Dobré odpoledne."
 "Lets go through the Taximeter functionalities." = "Pojďme si projít, co všechno taxametr umí."
-"Now when it is off, you are not on duty and won't receive calls." = "Teď, když je vypnutý, nejste v službě a nebudete dostávat hovory."
+"Now when it is off, you are not on duty and won't receive calls." = "Teď, když je vypnutý, nejste ve službě a nebudete dostávat hovory."
 "The first, minus position, means you are on duty and can now receive calls." = "První, minusová pozice, znamená, že jste v službě a můžete nyní přijímat hovory."
 "It is also a mode in which resets the Taximeter. So do not use it during active transport." = "Je to také režim, který resetuje taxametr. Nepoužívejte ho během aktivní jízdy."
 "Mode 1 is base fee for regular weekdays during daytime hours." = Režim 1 je základní cena pro běžné pracovní dny během denních hodin."
@@ -682,20 +682,20 @@ MODE SELECT = VYBRAT MÓD
 "You can also use the car phone, but call expenses are deducted from your salary." = "Tayk můžete používat firemní telefon v autě, ale náklady na hovory se strhávají ze mzdy."
 "Any questions?" = "Nějaké otázky?"
 "That's what I figured. This is very good car to drive. You would not guess its been driven almost half million kilometers!" = "To mě mohlo napadnout. Tohle je skvělé auto. Ani by jste netušil že má najeto skoro půl milionu kilometrů!"
-"Hello! I would like to order a taxi to Dance Hall." = "Bonjour ! Je voudrais commander un taxi pour la salle de danse."
-"Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 100."
-"Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 101."
-"Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 103."
+"Hello! I would like to order a taxi to Dance Hall." = "Dobrý den! Chtěl bych si objednat taxi na diskotéku."
+"Hello! I would like to order a taxi to Loppentie 100." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 100."
+"Hello! I would like to order a taxi to Loppentie 101." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 101."
+"Hello! I would like to order a taxi to Loppentie 103." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 103."
 "Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 104."
-"Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 201."
-"Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 202."
-"Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 204."
-"Hello! I would like to order a taxi to Loppentie 104." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 302."
+"Hello! I would like to order a taxi to Loppentie 201." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 201."
+"Hello! I would like to order a taxi to Loppentie 202." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 202."
+"Hello! I would like to order a taxi to Loppentie 204." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 204."
+"Hello! I would like to order a taxi to Loppentie 302." = "Dobrý den! Chtěl bych si objednat taxi na Loppentie 302."
+"Hello! I would like to order a taxi to Loppentie 401." = "Dobrý den! Chtěl bych taxi na Loppentie 401."
 "Good evening! Thank you for coming!" = "Dobrý večer! Díky že jste přijel."
 "Thank you and see you later!" = "Díky. Nashle."
-"I would like to get the receipt, thanks." = "Chtěl bych účtenku ."
-Hello! I would like to order a taxi to Bird Watch Tower. = Dobrý den! Chtěl bych taxi k pozorovatelně ptáku.(Bird Watch Tower)
-Hello! I would like to order a taxi to Loppentie 401. = Dobrý den! Chtěl bych taxi na Loppentie 401 .
+"I would like to get the receipt, thanks." = "Chtěl bych účtenku."
+Hello! I would like to order a taxi to Bird Watch Tower. = Dobrý den! Chtěl bych taxi k pozorovatelně ptáků.(Bird Watch Tower)
 
 //// Advert
 "FOR SALE! Corris Rivett. Project condition. Only little rust. Comes with 2.0 Block + Head. CHEAP! Phone: 08-609553 / Reijo" = "NA PRODEJ!! Corris Rivett. Jenom trochu zrezlé. Je k němu 2.0 Blok + Hlava motoru. LEVNÉ!! Telefon 08-609553 / Reijo"
@@ -711,8 +711,8 @@ Hello! I would like to order a taxi to Loppentie 401. = Dobrý den! Chtěl bych 
 "We are in Madeira now and we will come back when it gets warmer there! Mom and Dad." = "Jsme na Madeiře a vrátíme se až se oteplí. Mama a tata"
 
 //// Farmer HelloDrunk
-"Are you drunk?" = "Seš nalitej?"
-"So you are still having a midsummer festival?" = "Pořád jsi na letním festivalu?"
+"Are you drunk?" = "Seš nalitej?"   
+"So you are still having a midsummer festival?" = "Pořád jsi jak na letním festivalu?"
 
 //// Disclaimer
 This game is in Early Access. That means game is currently under active development. Game might be partially broken and is subject to constant change. You are able to give feedbackand suggest features in official My Winter Car Steam forum. Have fun! :) = Tato hra je v Early Access. To znamená, že je hra momentálně ve vývoji.\n Hra může být částečně nefunkční a podléhá neustálým změnám.\n Můžete poskytovat zpětnou vazbu a navrhovat funkce\n na oficiálním fóru My Winter Car na Steamu. Bavte se! :)

@@ -4,7 +4,7 @@
 
 # Special translation for price/phone line format
 # Used in lines like "h.149,- puh.123456" -> "149 MK, ${PHONE} - (08)123456"
-# Example) PHONE = PHONE  : "h.149,- puh.123456" -> "149 MK, PHONE - (08)123456"
+# Example PHONE = PHONE  : "h.149,- puh.123456" -> "149 MK, PHONE - (08)123456"
 PHONE = Tel.
 
 # Magazine ad translations
