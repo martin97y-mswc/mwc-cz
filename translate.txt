@@ -688,6 +688,9 @@ MODE SELECT = VYBRAT MÓD
 "You can also use the car phone, but call expenses are deducted from your salary." = "Tayk můžete používat firemní telefon v autě, ale náklady na hovory se strhávají ze mzdy."
 "Any questions?" = "Nějaké otázky?"
 "That's what I figured. This is very good car to drive. You would not guess its been driven almost half million kilometers!" = "To mě mohlo napadnout. Tohle je skvělé auto. Ani by jste netušil že má najeto skoro půl milionu kilometrů!"
+"Good evening! Thank you for coming!" = "Dobrý večer! Díky že jste přijel."
+"Thank you and see you later!" = "Díky. Nashle."
+"I would like to get the receipt, thanks." = "Chtěl bych účtenku."
 Hello! I would like to order a taxi to {0}. = Dobrý den, chtěl bych si objednat taxi, {0}.
 Loppentie 403 = Loppentie 403
 Loppentie 401 = Loppentie 401
@@ -725,9 +728,6 @@ Landfill = Skládka
 Bus Stop, Loppe = Autobusová zástavka, Loppe
 Bus Stop, Loppentie = Autobusová zástavka, Loppetie
 Bus Stop, Rykipohja = Autobusová zástavka, Rykipohja
-"Good evening! Thank you for coming!" = "Dobrý večer! Díky že jste přijel."
-"Thank you and see you later!" = "Díky. Nashle."
-"I would like to get the receipt, thanks." = "Chtěl bych účtenku."
 
 //// Advert
 "FOR SALE! Corris Rivett. Project condition. Only little rust. Comes with 2.0 Block + Head. CHEAP! Phone: 08-609553 / Reijo" = "NA PRODEJ!! Corris Rivett. Jenom trochu zrezlé. Je k němu 2.0 Blok + Hlava motoru. LEVNÉ!! Telefon 08-609553 / Reijo"
