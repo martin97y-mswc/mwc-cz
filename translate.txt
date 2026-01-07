@@ -76,7 +76,7 @@ automatic transmission fluid = Kapalina do aut.převodovky
 classifieds magazine = Magazín
 sandbag = Pytel s pískem
 
-cable plug = Kabelová přípojka
+cable plug = Přípojka vyhřívání motoru
 Lastname = Příjmení
 
 SCRAPE WINDOW = ŠKRÁBAT OKNO
@@ -137,7 +137,7 @@ Exhaust Pipe Side = SVODY VÝFUKU
 Dual Exhaust Tip = DVOJITÝ KONEC VÝFUKU
 Fan belt = ŘEMEN VENTILÁTORU
 rear light = ZADNÍ SVĚTLO
-Safety Fuel Cell 19L = BEZPEČNOSTÍ PALIVOVÁ NÁDRŽ 19L
+Safety Fuel Cell 19L = BEZPEČNOSTNÍ PALIVOVÁ NÁDRŽ 19L
 Gauges = BUDÍKY
 Manual Gearbox 4 spd = MANUÁLNÍ PŘEVODOVKA 4
 Manual Gearbox 5 spd = MANUALNÍ PŘEVODOVKA 5
@@ -198,7 +198,8 @@ Front Link Left = Přední levé řídící táhlo
 Front Link Right = Přední pravé řídící táhlo
 Rear Lower Control Arm = Zadní dolní rameno
 Rear Upper Control Arm = Zadní horní rameno
-Rear Axle = Zadní náprava
+REAR AXLE(CA) = Zadní víceprvková náprava (CA)
+REAR AXLE(BA) = Zadní tuhá náprava (BA)
 Front Shock Absorber = Přední tlumič
 Rear Shock Absorber = Zadní tlumič
 Driveshaft = Hnací hřídel
@@ -215,15 +216,15 @@ Steering Wheel = Volant
 Car Radio = Autorádio
 Dash Top Cover = Kryt palubové desky horní
 Dash Bottom Cover = Kryt palubové desky dolní
-Column Shroud Left = Column Shroud Left
-Column Shroud Right = Column Shroud Right
-Parcel Shelf = PLAGE ARRIERE
-Driver Seat = SIEGE CONDUCTEUR
-Passenger Seat = SIEGE PASSAGER
-Rear Seat Bench = Zadní sedadlo
+Column Shroud Left = Levý kryt sloupku řízení
+Column Shroud Right = Pravý kryt sloupku řízení
+Parcel Shelf = Zadní plato
+Driver Seat = Sedadlo Řidiče
+Passenger Seat = Sedadlo Spolujezdce
+Rear Seat Bench = Zadní Sedadlo
 Rear Seat Backrest = Opěradlo zadní sedačky
-Fresh Air Duct = Fresh Air Duct
-Ventilation Box = Box ventilace
+Fresh Air Duct = Vzduchový kanál
+Ventilation Box = Skříň ventilace a topení
 Shifter Automatic = Řadící páka automatu
 Center Console = Centrální konzole
 Rear Window Grille = Maska zadního okna
@@ -254,8 +255,8 @@ Ajoneuvo ei vastaa rakenteeltaan tai ulkonäöltään tyyppi-kilpeä tai varuste
 
 
 //// Death Screen
-Man found dead from hypothermia = Man found dead\n from hypothermia
-Peräjärveläinen mies paleltui kuoliaaksi = Man found dead\n from hypothermia
+Man found dead from hypothermia = Man found dead\n from\n hypothermia
+Peräjärveläinen mies paleltui kuoliaaksi = Muž zemřel\n na podchlazení.
 
 //// ATM
 INSERT CREDIT CARD = VLOŽIT KREDITKU
@@ -285,7 +286,7 @@ Kiitos käynnistä Tervetuloa uudelleen. = DĚKUJEME ZA NÁŠTĚVU
 Nosto = Výběr
 Asumistuki = Příspěvek na bydlení
 Työttömyystuki = Podpora v nezaměstnanosti
-PSK Pera Autom. = Tankování PSK
+PSKPerajarviAutom = Obchod PSK
 Vuokra = Nájem
 Jakopalkkio = Roznos letáků
 
@@ -306,7 +307,7 @@ ALOITA = ZAČÍT
 KESKEYTÄ = STORNO
 VARAUS = VKLAD
 VALITSE ENIMMÄISSUMMA VELOITUS TOTEUTUNEEN TANKKAUKSEN MUKAAN = ZVOLTE\nČÁSTKU
-SYÖTÄ TUNNUSLUKUSI JA PAINA 'ENT' = ZADEJTE PIN\n STISKNĚTE 'ENT'
+SYÖTÄ TUNNUSLUKUSI JA PAINA 'ENT' = ZADEJTE PIN
 VÄÄRÄ TUNNUSLUKU OTA KORTTI = ŠPATNÝ PIN\n\n VEZMĚTE SI KARTU
 
 //// Repair Shop
@@ -318,7 +319,7 @@ Vanteet metalliväri / Rim metallic = Metalické disky
 Vanteet maalattuna / Rim paint = Přebarvit disky
 Vanteiden kiilotus / Rim polish = Vyleštit disky
 COST BREAKDOWN = ROZPIS NÁKLADŮ
-"You can take my Bachglotz if you need to get back home." = "Můžeš si vzít můj Bachglotz jestli potřebuješ domů"
+"You can take my Bachglotz if you need to get back home." = "Můžeš si vzít můj Bachglotz, jestli potřebuješ domů"
 
 //// Ice Race
 original sheet metal required = original sheet metal required
@@ -534,7 +535,7 @@ COULD NOT CONNECT = COULD NOT CONNECT
 "As expected, your car failed." = "Jak jsem čekal, neprošlo to."
 "Not sure how it is possible, but your car passed the inspection." = "Nevím jak je to možný, ale tenhle krám prošel."
 "I am so tired with this." = "Už mě to unavuje."
-"Let's get this folder of historical truths, and we'll check the Corris." = "Vezměme si tuhle složku s historickými pravdami a zkontrolujeme Rivetta...."
+"Let's get this folder of historical truths, and we'll check the Corris." = "Vezměme tuto složku historických pravd a zkontrolujeme Corrise..."
 "Otherwise good, but built wrong. Better luck next time." = "Dobrý, ale nahovno postavený, hodně štěstí přístě."
 "This car clearly meets the historical vehicle requirements. Good job!" = "Tohle auto jasně souhlasí s historickými požadavky."
 
@@ -572,11 +573,11 @@ COULD NOT CONNECT = COULD NOT CONNECT
 "I've been thinking about karaoke-nights. I wonder if there are any willing singers in this place. Probably just a money sink anyway." = "Přemýšlel jsem o karaoke večerech. Zajímalo by mě, jestli tu jsou nějací ochotní zpěváci. Pravděpodobně to bude stejně jen stráta peněz."
 "Sure, I have some almost fresh coffee in the thermocan. Wait a second." = "Jasně, mám skoro čerstvou kávu v termosce. Počkej chvíli."
 "So cup of good coffee? Coming your way!" = "Tak šálek dobré kávy? Hned to máš!"
-"A one coffee CUP, for you." = "Jedno kafe, pro tebe."
+"A one coffee COP, for you." = "Jedno kafe, pro tebe."
 "And that's how we cure the thirst." = "A takhle léčíme žízeň."
 "Good coffee coming your way." = "Jedno dobré kafe."
 "Okay, wait a second." = "Okej, počkej chvilu."
-"Thank you, coming up." = "Diky, hned to bude."
+"Thank you, coming up." = "Díky, hned to bude."
 "So there, your welcome!" = "Tady máš!"
 "Be good!" = "Hodně štestí!"
 "There! Anything else, perhaps?" = "Tady, Ještě něco?"
@@ -691,7 +692,7 @@ MODE SELECT = VYBRAT MÓD
 "Good evening! Thank you for coming!" = "Dobrý večer! Díky že jste přijel."
 "Thank you and see you later!" = "Díky. Nashle."
 "I would like to get the receipt, thanks." = "Chtěl bych účtenku."
-Hello! I would like to order a taxi to {0}. = Dobrý den, chtěl bych si objednat taxi, {0}.
+Hello! I would like to order a taxi to {0}. = Dobrý den, chtěl bych si objednat taxi {0}.
 Loppentie 403 = Loppentie 403
 Loppentie 401 = Loppentie 401
 Loppentie 302 = Loppentie 302
@@ -730,17 +731,17 @@ Bus Stop, Loppentie = Autobusová zástavka, Loppetie
 Bus Stop, Rykipohja = Autobusová zástavka, Rykipohja
 
 //// Advert
-"FOR SALE! Corris Rivett. Project condition. Only little rust. Comes with 2.0 Block + Head. CHEAP! Phone: 08-609553 / Reijo" = "NA PRODEJ!! Corris Rivett. Jenom trochu zrezlé. Je k němu 2.0 Blok + Hlava motoru. LEVNÉ!! Telefon 08-609553 / Reijo"
-"Sure yes I have the car here. Come here to check it out, you know where I live!" = "Jasně mám tady to auto. Přijeď a zkoukni to, víš kde bydlím"
-"EASY MONEY! Become a advert mailer at Peräjärvi region. Drivers licence recommended. Interested? Call us: 08-231206" = "RYCHLÝ PRACHY!! Staň se pošťákem v regionu Peräjärvi. Doporučen řidičák. Zavolej na 08-231206"
+"FOR SALE! Corris Rivett. Project condition. Only little rust. Comes with 2.0 Block + Head. CHEAP! Phone: 08-609553 / Reijo" = "NA PRODEJ!! Corris Rivett. Jenom trochu zrezlé. Přidám k němu 2.0 Blok + Hlavu motoru. LEVNÉ!! Telefon 08-609553 / Reijo"
+"Sure yes I have the car here. Come here to check it out, you know where I live!" = "Jasně mám tady to auto. Přijeď a zkoukni to, víš kde bydlím!"
+"EASY MONEY! Become a advert mailer at Peräjärvi region. Drivers licence recommended. Interested? Call us: 08-231206" = "RYCHLÝ PRACHY!! Staň se pošťákem v regionu Peräjärvi. Doporučen řidičák. Zavolej na 08-231206."
 "Hi there. We have the mailer position open. It is up to you whether you do it or not. We send the adverts to you, have fun!" = "Dobrý den. Máme tu volnou pozici. Je to na tobě jestli to budeš dělat nebo ne.
 "Looking for a reliable driver to operate a taxicab. Call 08-712112" = "Hledám spolehlivého řidiče do taxíku. Zavolej na 08-712112"
 
 //// Fridge
 "Remember to keep the house warm, otherwise water pipes will freeze!" = "Nezapomeň vytopit barák, jinak trubky zamrznou!"
 "And if locals call for firewood, just do it and don't lay around!" = "Kdyby ti zavolali sousedi pro dřevo, tak nebuď línej!"
-"And you need to stop drinking! You are a grown up man now. Look what happened to my brother. That's your future." = "A prestaň chlastat!! Už jseš dospělej. Podívej se co se stalo mýmu bratrovi. To je tvoje budoucnost."
-"We are in Madeira now and we will come back when it gets warmer there! Mom and Dad." = "Jsme na Madeiře a vrátíme se až se oteplí. Mama a tata"
+"And you need to stop drinking! You are a grown up man now. Look what happened to my brother. That's your future." = "A přestaň chlastat!! Už jseš dospělej. Podívej se co se stalo mýmu bratrovi. To je tvoje budoucnost."
+"We are in Madeira now and we will come back when it gets warmer there! Mom and Dad." = "Jsme na Madeiře a vrátíme se až se oteplí. Máma a tata"
 
 //// Farmer HelloDrunk
 "Are you drunk?" = "Seš nalitej?"   
