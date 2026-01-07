@@ -285,7 +285,7 @@ Kiitos käynnistä Tervetuloa uudelleen. = DĚKUJEME ZA NÁŠTĚVU
 Nosto = Výběr
 Asumistuki = Příspěvek na bydlení
 Työttömyystuki = Podpora v nezaměstnanosti
-PSKPeraAutom. = Obchod PSK
+PSKPeraAutom = Obchod PSK
 Vuokra = Nájem
 Jakopalkkio = Roznos letáků
 
