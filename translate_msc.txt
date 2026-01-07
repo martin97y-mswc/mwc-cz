@@ -542,8 +542,8 @@ LIGHT SWITCH = Spínač světel
 IGNITION SWITCH = Spínač zapalování
 
 //Death Screens
-Liikenneonnettomuus vaati jälleen nuoren uhrin = Dopravní nehoda\nsi vyžádala\ndalší mladou oběť
-Young male dead in a traffic accident = Mladý muž\nzahynul při\ndopravní nehodě
+Liikenneonnettomuus vaati jälleen nuoren uhrin = Dopravní nehoda\nsi vyžádala\ndalší\n mladou oběť
+Young male dead in a traffic accident = Mladý muž\nzahynul při\ndopravní\n nehodě
 Peräjärveläinen mies kuoli sydänkohtaukseen = Muž z Peräjärvi\nzemřel na\nsrdeční příhodu
 Heart attack killed young man from Peräjärvi = Infarkt zabil\nmladého muže\nz Peräjärvi
 Peräjärveläinen mies kuoli yliajossa = Muž z Peräjärvi\nzahynul při\nsrážce s autem
@@ -643,8 +643,8 @@ pike = Štika
 grilled pike = Grilovaná štika
 charred pike = Spálená štika
 rotten pike = Shnilá štika
-bucket = Kýbl
-bucket lid = Víko kýblu
+bucket = Kbelík
+bucket lid = Víko kbelíku
 flashlight = Baterka
 tv remote control = Dálkový ovladač
 fire extinguisher = Hasicí přístroj
