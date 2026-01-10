@@ -1,0 +1,26 @@
+LANGUAGE_NAME = Czech
+LANGUAGE_CODE = cs-CZ
+UNICODE_RANGES = 
+[FONTS]
+FugazOne-Regular = OpenSansExtraboldItalic
+Heebo-Black = LunaBlack
+AlfaSlabOne-Regular = RepublicaMinor2
+Cour10Bd = NewsGothOriginalBTBold
+RAGE = RUSRageItalic
+Dosis-SemiBold = ExpresswayFree
+Dosis-SemiBold LowCase = ExpresswayFree
+DroidSerif-Bold = DroidSerif-Bold
+PlayfairDisplay-Bold = DroidSerif-Bold
+WalterTurncoat-Regular = WalterTurncoat
+
+[POSITION_ADJUSTMENTS]
+## HUD labels
+Contains(GUI/HUD/) & EndsWith(/HUDLabel) = 0,-0.05,0
+## Money ATM screen (excluding row elements)
+Contains(PERAPORTTI/ATMs/MoneyATM/Screen) & !Contains(/Row) & EndsWith(/Text) = 0,0.25,0
+## Fuel ATM screen header
+Contains(PERAPORTTI/ATMs/FuelATM/Screen) & !Contains(/Row) & EndsWith(/Text) = 0,0.45,0
+## Fuel ATM screen rows
+Contains(PERAPORTTI/ATMs/FuelATM/Screen) & Contains(/Row) & EndsWith(/Text) = 0,-0.25,0
+## Teletext TV
+Contains(Systems/TV/Teletext/VKTekstiTV/) = 0,0.25,0
